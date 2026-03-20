@@ -53,19 +53,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default&hide_border=true&title_color=333&icon_color=555&text_color=333" height="160" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&title_color=333&text_color=333" height="160" alt="Top Languages"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR-GITHUB-USERNAME&hide_border=true&stroke=eee&ring=555&fire=333&currStreakLabel=333" alt="GitHub Streak"/>
-</p>
-
----
 
 <p align="center">
   <sub>Thanks for visiting! ✨</sub>
