@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Dinisha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=550&lines=Aspiring+Python+Developer;Django+Backend+Learner;Open+to+Internship+Opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3776AB&center=true&vCenter=true&width=550&lines=Aspiring+Python+Developer;Django+Backend+Learner;AI+Learner;Open+to+Internship+Opportunities" alt="Typing SVG" />
 </p>
 
 <p align="center">
